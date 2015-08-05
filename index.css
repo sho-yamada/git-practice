@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.test-text {
+  color: #FF0000;
+  font-size: 16px;
+}
