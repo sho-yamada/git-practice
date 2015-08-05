@@ -1,3 +1,5 @@
+http://i.gyazo.com/6729d26a491b6a76cbcd2170209ec408.png
+
 # git研修用リポジトリ
 
 gitの操作に慣れるためのリポジトリです。
